@@ -1,0 +1,76 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+
+}
+@media screen and (max-width: 1400px) {
+    body{
+        background-image: url(https://th.bing.com/th/id/OIP.DnL2EyZqZxCCIAyxOe1uwQAAAA?w=336&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+        background-size: 100%;
+    }
+    h1{
+        background-color: blue;
+        color: white;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 1200px) {
+    body{
+        background-image: url(https://th.bing.com/th/id/OIP.QNpP6LLnyuxptzo3TXaEXwHaEo?w=295&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+        background-size: 100%;
+    }
+    h1{
+        background-color: red;
+        color: white;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 992px) {
+    body{
+        background-image: url(https://th.bing.com/th/id/OIP.4m-lu1cZfUJo9OAEdbeXIQHaEo?w=298&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+        background-size: 100%;
+    }
+    h1{
+        background-color: yellow;
+        color: white;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 768px) {
+    body{
+        background-image: url(https://th.bing.com/th/id/OIP.gXAxlgLQnNX9KbfqOFQP4AHaFj?w=249&h=186&c=7&r=0&o=5&dpr=1.3&pid=1.7);
+        background-size: 100%;
+    }
+    h1{
+        background-color: brown;
+        color: white;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 576px) {
+    body{
+        background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Multnomah_Falls_on_2_August_2012.jpg/1200px-Multnomah_Falls_on_2_August_2012.jpg);
+        background-size: 100%;
+    }
+    h1{
+        background-color:aquamarine ;
+        color: white;
+        text-align: center;
+    }
+}
+@media screen and (max-width: 576px) {
+    body{
+        background-image: url(https://www.hawaiidiscount.com/blog/wp-content/uploads/2016/01/waterfall-691367.jpg);
+        background-size: 100%;
+    }
+    h1{
+        background-color: aqua;
+        color: white;
+        text-align: center;
+    }
+}
